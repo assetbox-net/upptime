@@ -22,17 +22,19 @@
     "url": "https://api.assetbox.net/info/health/database",
     "icon": "https://icons.duckduckgo.com/ip3/api.assetbox.net.ico",
     "slug": "backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 551,
-    "timeWeek": 472,
-    "timeMonth": 463,
-    "timeYear": 622,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.92%",
+    "time": 621,
+    "timeDay": 560,
+    "timeWeek": 484,
+    "timeMonth": 467,
+    "timeYear": 621,
+    "dailyMinutesDown": {
+      "2026-04-04": 89
+    }
   }
 ]
