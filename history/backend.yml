@@ -1,7 +1,7 @@
 url: https://api.assetbox.net/info/health/database
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2026-04-04T19:29:33.729Z
+status: down
+code: 502
+responseTime: 443
+lastUpdated: 2026-04-04T20:23:14.488Z
 startTime: 2026-01-22T00:15:19.645Z
 generator: Upptime <https://github.com/upptime/upptime>
